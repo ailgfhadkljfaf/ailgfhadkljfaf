@@ -1,5 +1,4 @@
 # Hi there! I'm THE PERSON
-Real name: I don't have one
 ## About Me
 - I love playing Minecraft and Kards
 - I enjoy collaborating with others
@@ -9,4 +8,6 @@ Real name: I don't have one
 - 🌟 Check out [@Flyingboys-787](https://github.com/Flyingboys-787)  
   He’s really good at coding and has awesome ideas!
 
-
+Real name: I don't have one
+Contact: Guess my email
+  You will find me, I believe in you
