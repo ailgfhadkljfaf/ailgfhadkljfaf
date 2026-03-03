@@ -8,6 +8,5 @@
 - 🌟 Check out [@Flyingboys-787](https://github.com/Flyingboys-787)  
   He’s really good at coding and has awesome ideas!
 <hr>
-Real name: I don't have one  
-Contact: Guess my email  
-  You will find me, I believe in you
+Real name: I don't have one<br>
+Contact: Guess my email
