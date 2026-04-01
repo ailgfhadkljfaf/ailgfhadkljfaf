@@ -1,4 +1,4 @@
-# Hi there! I'm THE PERSON
+# Hi there! I'm Rayray
 ## About Me
 - I love playing Minecraft and Kards
 - I enjoy collaborating with others
