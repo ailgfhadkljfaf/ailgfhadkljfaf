@@ -1,8 +1,8 @@
 # Hi there! I'm Rayray
 ## About Me
-- I love playing Minecraft and Kards
 - I enjoy collaborating with others
 - I like experimenting and having fun with creative ideas
+- I love playing Minecraft and Kards
 
 ## Shoutouts
 - 🌟 Check out [@Flyingboys-787](https://github.com/Flyingboys-787)  
