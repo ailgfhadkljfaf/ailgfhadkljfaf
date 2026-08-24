@@ -2,8 +2,6 @@
 ## About Me
 - I sleep
 - I eat
-- I do work
-- I collab
 - I play Minecraft
 
 ## Shoutouts
